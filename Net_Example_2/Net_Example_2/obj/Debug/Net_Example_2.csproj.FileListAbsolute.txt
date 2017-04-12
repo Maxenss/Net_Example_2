@@ -1,0 +1,10 @@
+C:\Users\Юрий\Desktop\Net_Example_2\Net_Example_2\obj\Debug\Net_Example_2.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\Net_Example_2\Net_Example_2\bin\Debug\Net_Example_2.exe
+C:\Users\Юрий\Desktop\Net_Example_2\Net_Example_2\bin\Debug\Net_Example_2.pdb
+C:\Users\Юрий\Desktop\Net_Example_2\Net_Example_2\obj\Debug\Net_Example_2.exe
+C:\Users\Юрий\Desktop\Net_Example_2\Net_Example_2\obj\Debug\Net_Example_2.pdb
+C:\Users\Юрий\Desktop\Унивесритет\Net_Example_2\Net_Example_2\obj\Debug\Net_Example_2.exe
+C:\Users\Юрий\Desktop\Унивесритет\Net_Example_2\Net_Example_2\obj\Debug\Net_Example_2.pdb
+C:\Users\Юрий\Desktop\Унивесритет\Net_Example_2\Net_Example_2\bin\Debug\Net_Example_2.exe
+C:\Users\Юрий\Desktop\Унивесритет\Net_Example_2\Net_Example_2\bin\Debug\Net_Example_2.pdb
+C:\Users\Юрий\Desktop\Унивесритет\Net_Example_2\Net_Example_2\obj\Debug\Net_Example_2.csprojResolveAssemblyReference.cache
